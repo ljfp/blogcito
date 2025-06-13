@@ -1,0 +1,10 @@
+.sections-row {
+	display: flex;
+	gap: 2rem;
+	justify-content: flex-start;
+}
+
+.section {
+	flex: 1;
+	min-width: 200px;
+}
